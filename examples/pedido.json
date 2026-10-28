@@ -1,0 +1,7 @@
+{
+  "pedido": [
+    {"producto": "arroz", "cantidad": 1, "precio_unitario": 120000},
+    {"producto": "aceite", "cantidad": 1, "precio_unitario": 90000}
+  ],
+  "existencias": {"arroz": 10, "aceite": 8}
+}
