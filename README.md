@@ -16,5 +16,7 @@ Python 3.12 o Docker Desktop con motor Linux activo.
 `docker run --rm entrega1-pedidos`
 `docker run --rm entrega1-pedidos python -m unittest discover -s tests -v`
 
+El 31 de octubre de 2026 cloné este repositorio y ejecuté las pruebas dentro de Docker. Resultado: 8 pruebas ejecutadas, OK.
+
 ## Flujo
 GitHub Actions ejecuta las pruebas en cada push y pull request. La evidencia de ejecución local debe registrarse con fecha; no se deben agregar capturas ficticias.
